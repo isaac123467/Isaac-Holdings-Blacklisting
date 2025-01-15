@@ -4,6 +4,7 @@
     },
     "BlacklistedGroups": {
         "12345": "Group associated with rule-breaking activities",
+      "15879199": "Using exploits",
     },
     "TemporaryBans": {
         "1122334455": {
