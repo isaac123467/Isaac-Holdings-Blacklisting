@@ -1,19 +1,16 @@
 {
-    "BlacklistedPlayers": {
-        "15879199": "Using exploits",
-    },
-    "BlacklistedGroups": {
-        "12345": "Group associated with rule-breaking activities",
-      "15879199": "Using exploits",
-    },
-    "TemporaryBans": {
-        "1122334455": {
-            "reason": "Spamming chat",
-            "unbanTime": 1737168000
-        },
-        "5566778899": {
-            "reason": "Griefing builds",
-            "unbanTime": 1737254400
-        }
+  "UserIDs": [
+    {
+      "UserId": 123456789,
+      "Reason": "Exploiting",
+      "Administrator": "Isaac"
     }
+  ],
+  "GroupIDs": [
+    {
+      "GroupId": 15879199,
+      "Reason": "Group involved in exploiting",
+      "Administrator": "Isaac"
+    }
+  ]
 }
