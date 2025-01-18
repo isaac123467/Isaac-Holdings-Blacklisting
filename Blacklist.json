@@ -5,9 +5,14 @@
       "Reason": "Asset Stealing & Rudeness",
       "Administrator": "Isaac"
     },
-   {
+    {
       "UserId": 1683144425,
       "Reason": "Rudeness",
+      "Administrator": "Isaac"
+    },
+     {
+      "UserId": 4186235366,
+      "Reason": "Death Threats",
       "Administrator": "Isaac"
     }
   ],
