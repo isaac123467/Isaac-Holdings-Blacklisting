@@ -13,8 +13,15 @@
       "Reason": "Death Threats",
       "Notes": "Severe threats against other users in private messages.",
       "Administrator": "Isaac"
+    },
+    {
+      "UserId": 2944312498,
+      "Username": "Ekul1982",
+      "Reason": "Toxic In Other Servers // Scamming // Blackmailing",
+      "Notes": "Appealable if im in a good mood.",
+      "Administrator": "Isaac"
     }
   ],
-  "GroupIDs": [
+  "GroupIDs": [ 
   ]
 }
