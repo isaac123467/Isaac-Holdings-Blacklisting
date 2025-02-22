@@ -13,6 +13,20 @@
       "Reason": "Death Threats",
       "Notes": "Severe threats against other users in private messages.",
       "Administrator": "Isaac"
+    },
+      {
+      "UserId": 3366785422,
+      "Username": "FynicalBest1",
+      "Reason": "Exploiting In Riverbank Inn",
+      "Notes": "No need to be jelous mate.",
+      "Administrator": "Isaac"
+    },
+     {
+      "UserId": 3366768124,
+      "Username": "FynicalBest2",
+      "Reason": "Exploiting In Riverbank Inn no alts pls",
+      "Notes": "No need to be jelous mate.",
+      "Administrator": "Isaac"
     }
   ],
   "GroupIDs": [ 
